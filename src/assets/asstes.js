@@ -72,7 +72,7 @@ export const projectData = [
     description:
       "A clean, user-centric website built for Nanda Aluminium, designed to showcase their expertise in durable fabrication, modern glass solutions, and commercial design.",
     image:
-      "/public/project-images/nanda.png",
+      "/project-images/nanda.png",
     tech: ["JavaScript","ReactJs", "Tailwindcss", "vite"],
     projectLink: "",
     liveDemo: "https://nanda-aluminium.netlify.app/",
