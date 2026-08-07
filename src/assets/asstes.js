@@ -100,7 +100,14 @@ export const projectData = [
   image: "/project-images/braghu.png",
   tech: ["JavaScript", "TailwindCSS", "ReactJS", "Vite", "EmailJs"],
   projectLink: "",
-  liveDemo: "",
+  liveDemo: "https://braghutechnology.com/",
+},{
+  title: "GS Homeliness",
+  description: "A curated digital storefront and interior design showcase offering customizable modular seating, ergonomic office setups, and sustainable wooden decor collections for modern homes and corporate spaces.",
+  image: "/project-images/homeliness.png",
+  tech: ["JavaScript", "CSS3", "HTML5"],
+  projectLink: "",
+  liveDemo: "https://gshomeliness.in/",
 }
 
 ];
