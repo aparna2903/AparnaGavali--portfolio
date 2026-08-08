@@ -75,7 +75,7 @@ export const projectData = [
       "/project-images/nanda.png",
     tech: ["JavaScript","ReactJs", "Tailwindcss", "vite"],
     projectLink: "",
-    liveDemo: "https://nanda-aluminium.netlify.app/",
+    liveDemo: "https://nandaaluminium.in/",
   },
   {
     title: "Layer&Lift",
